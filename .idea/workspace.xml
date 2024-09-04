@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6adaca61-9d57-4e43-9cc7-a9b84ca4b795" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ListaExercicio4/Retangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaExercicio4/AppQuestao2Ui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaExercicio4/AppQuestao3Ui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaExercicio5/Ponto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaExercicio5/Quadrante.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ListaExercicio3/Questao1/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListaExercicio3/Questao1/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -36,6 +39,8 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Application.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AppQuestao2Ui.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AppQuestao3Ui.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
